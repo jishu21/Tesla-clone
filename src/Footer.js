@@ -47,7 +47,7 @@ function Footer() {
         <SocialIconsContainer>
           {/* LinkedIn Icon */}
           <a
-            href="https://www.linkedin.com/in/singhharsh14/"
+            href="https://www.linkedin.com/in/jiteshwar-singh/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,7 +55,7 @@ function Footer() {
           </a>
           {/* GitHub Icon */}
           <a
-            href="https://github.com/HarshSingh21"
+            href="https://github.com/jishu21"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -63,7 +63,7 @@ function Footer() {
             "100%" />
           </a>
         </SocialIconsContainer>
-        <CopyrightText>© Harsh Singh</CopyrightText>
+        <CopyrightText></CopyrightText>
       </div>
     </FooterContainer>
   );
